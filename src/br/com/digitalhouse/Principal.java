@@ -8,7 +8,7 @@ public class Principal{
         Aluno jessica = new Aluno("2345B","Jessica","Correa");
         Aluno sergio = new Aluno ("3456C","Sergio","Souza");
 
-            
+
 
     }
 }
